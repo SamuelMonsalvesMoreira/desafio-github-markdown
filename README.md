@@ -24,13 +24,13 @@ Este projeto faz parte do desafio da **Digital Innovation One (DIO)** para demon
 
 - [x] ✅ Criar repositório público
 - [x] ✅ Configurar README.md com Markdown
-- [ ] 🔄 Adicionar colaborador
-- [ ] 🔄 Realizar clone local
-- [ ] 🔄 Fazer commits organizados
-- [ ] 🔄 Criar Issues
-- [ ] 🔄 Abrir Pull Requests
-- [ ] 🔄 Trabalhar com branches
-- [ ] 🔄 Configurar autenticação segura
+- [x] ✅ Realizar clone local
+- [x] ✅ Fazer commits organizados
+- [x] ✅ Criar Issues
+- [x] ✅ Abrir Pull Requests
+- [x] ✅ Trabalhar com branches
+- [x] ✅ Adicionar colaborador
+- [x] ✅ Configurar autenticação segura
 
 ## 🛠️ Como Reproduzir Este Projeto
 
